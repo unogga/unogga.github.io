@@ -1,0 +1,19 @@
+{
+  "name": "Pulso — Lista de Tarefas M3",
+  "short_name": "Pulso",
+  "description": "Aplicativo web de lista de tarefas em Material Design 3 com recursos avançados de HTML5.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FEF7FF",
+  "theme_color": "#6750A4",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
